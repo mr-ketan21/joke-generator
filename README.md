@@ -1,1 +1,1 @@
-# qoute-generator
+# joke-generator
